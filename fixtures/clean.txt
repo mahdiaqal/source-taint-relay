@@ -1,0 +1,2 @@
+Synthetic dashboard: the demonstration service is operational.
+The demonstration status was recorded at 09:00 UTC.
